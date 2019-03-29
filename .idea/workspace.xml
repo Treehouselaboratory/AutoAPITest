@@ -1,0 +1,748 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="0a383086-26e0-4302-bc85-edc2f57a89ec" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/AutoAPITest.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_beust_jcommander_1_72.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_extras_beanshell_bsh_2_0b6.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_testng_testng_6_14_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TestNGTest/TestNGTest.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TestNGTest/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TestNGTest/src/main/java/com/treehouse/testng/BasicAnnotation.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TestNGTest/src/main/java/com/treehouse/testng/DependTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TestNGTest/src/main/java/com/treehouse/testng/ExpectedExceptionTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TestNGTest/src/main/java/com/treehouse/testng/IgnoreTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TestNGTest/src/main/java/com/treehouse/testng/TimeOutTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TestNGTest/src/main/java/com/treehouse/testng/depends/TestApp.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TestNGTest/src/main/java/com/treehouse/testng/depends/TestDatabase.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TestNGTest/src/main/java/com/treehouse/testng/depends/TestServer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TestNGTest/src/main/java/com/treehouse/testng/groups/GroupsOnClass1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TestNGTest/src/main/java/com/treehouse/testng/groups/GroupsOnClass2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TestNGTest/src/main/java/com/treehouse/testng/groups/GroupsOnClass3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TestNGTest/src/main/java/com/treehouse/testng/groups/GroupsOnMethod.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TestNGTest/src/main/java/com/treehouse/testng/parameter/DataProviderTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TestNGTest/src/main/java/com/treehouse/testng/parameter/ParameterTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TestNGTest/src/main/java/com/treehouse/testng/suite/LoginTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TestNGTest/src/main/java/com/treehouse/testng/suite/PayTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TestNGTest/src/main/java/com/treehouse/testng/suite/SuiteConfig.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TestNGTest/src/main/java/com/treehouse/testng/test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TestNGTest/src/main/resources/depend.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TestNGTest/src/main/resources/groupsonclass.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TestNGTest/src/main/resources/parameter.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TestNGTest/src/main/resources/suite.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+    </list>
+    <ignored path="$PROJECT_DIR$/target/" />
+    <ignored path="$PROJECT_DIR$/TestNGTest/target/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/TestNGTest/src/main/java/com/treehouse/testng/parameter/DataProviderTest.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="428">
+              <caret line="36" column="16" selection-start-line="36" selection-start-column="16" selection-end-line="36" selection-end-column="16" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="e#347#348#0" expanded="true" />
+                <element signature="e#420#421#0" expanded="true" />
+                <element signature="e#664#665#0" expanded="true" />
+                <element signature="e#700#701#0" expanded="true" />
+                <element signature="e#742#743#0" expanded="true" />
+                <element signature="e#780#781#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/TestNGTest/src/main/java/com/treehouse/testng/parameter/ParameterTest.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="180">
+              <caret line="10" column="9" selection-start-line="10" selection-start-column="9" selection-end-line="10" selection-end-column="9" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="e#325#326#0" expanded="true" />
+                <element signature="e#398#399#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/TestNGTest/src/main/resources/parameter.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="180">
+              <caret line="10" column="11" selection-start-line="10" selection-start-column="11" selection-end-line="10" selection-end-column="11" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/pom.xml" />
+        <option value="$PROJECT_DIR$/TestNGTest/pom.xml" />
+        <option value="$PROJECT_DIR$/TestNGTest/src/main/java/com/treehouse/testng/DependTest.java" />
+        <option value="$PROJECT_DIR$/TestNGTest/src/main/java/com/treehouse/testng/ExpectedExceptionTest.java" />
+        <option value="$PROJECT_DIR$/TestNGTest/src/main/java/com/treehouse/testng/IgnoreTest.java" />
+        <option value="$PROJECT_DIR$/TestNGTest/src/main/java/com/treehouse/testng/TimeOutTest.java" />
+        <option value="$PROJECT_DIR$/TestNGTest/src/main/java/com/treehouse/testng/depends/TestApp.java" />
+        <option value="$PROJECT_DIR$/TestNGTest/src/main/java/com/treehouse/testng/depends/TestDatabase.java" />
+        <option value="$PROJECT_DIR$/TestNGTest/src/main/java/com/treehouse/testng/depends/TestServer.java" />
+        <option value="$PROJECT_DIR$/TestNGTest/src/main/java/com/treehouse/testng/groups/GroupsOnClass1.java" />
+        <option value="$PROJECT_DIR$/TestNGTest/src/main/java/com/treehouse/testng/groups/GroupsOnClass2.java" />
+        <option value="$PROJECT_DIR$/TestNGTest/src/main/java/com/treehouse/testng/groups/GroupsOnClass3.java" />
+        <option value="$PROJECT_DIR$/TestNGTest/src/main/java/com/treehouse/testng/groups/GroupsOnMethod.java" />
+        <option value="$PROJECT_DIR$/TestNGTest/src/main/java/com/treehouse/testng/suite/SuiteConfig.java" />
+        <option value="$PROJECT_DIR$/TestNGTest/src/main/java/com/treehouse/testng/suite/PayTest.java" />
+        <option value="$PROJECT_DIR$/TestNGTest/src/main/java/com/treehouse/testng/suite/LoginTest.java" />
+        <option value="$PROJECT_DIR$/TestNGTest/src/main/java/com/treehouse/testng/parameter/ParameterTest.java" />
+        <option value="$PROJECT_DIR$/TestNGTest/src/main/java/com/treehouse/testng/parameter/DataProviderTest.java" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="1">
+    <option name="x" value="121" />
+    <option name="y" value="32" />
+    <option name="width" value="1398" />
+    <option name="height" value="877" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="PackagesPane" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="AutoAPITest" type="b2602c69:ProjectViewProjectNode" />
+              <item name="AutoAPITest" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="AutoAPITest" type="b2602c69:ProjectViewProjectNode" />
+              <item name="AutoAPITest" type="462c0819:PsiDirectoryNode" />
+              <item name="TestNGTest" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="AutoAPITest" type="b2602c69:ProjectViewProjectNode" />
+              <item name="AutoAPITest" type="462c0819:PsiDirectoryNode" />
+              <item name="TestNGTest" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="AutoAPITest" type="b2602c69:ProjectViewProjectNode" />
+              <item name="AutoAPITest" type="462c0819:PsiDirectoryNode" />
+              <item name="TestNGTest" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="AutoAPITest" type="b2602c69:ProjectViewProjectNode" />
+              <item name="AutoAPITest" type="462c0819:PsiDirectoryNode" />
+              <item name="TestNGTest" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="AutoAPITest" type="b2602c69:ProjectViewProjectNode" />
+              <item name="AutoAPITest" type="462c0819:PsiDirectoryNode" />
+              <item name="TestNGTest" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="testng" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="AutoAPITest" type="b2602c69:ProjectViewProjectNode" />
+              <item name="AutoAPITest" type="462c0819:PsiDirectoryNode" />
+              <item name="TestNGTest" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="testng" type="462c0819:PsiDirectoryNode" />
+              <item name="parameter" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="AutoAPITest" type="b2602c69:ProjectViewProjectNode" />
+              <item name="AutoAPITest" type="462c0819:PsiDirectoryNode" />
+              <item name="TestNGTest" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="resources" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1553834496049" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/TestNGTest/src/main/java/com/treehouse/testng" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="TestNG.DataProviderTest">
+    <configuration name="DataProviderTest" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="TestNGTest" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.treehouse.testng.parameter.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.treehouse.testng.parameter" />
+      <option name="MAIN_CLASS_NAME" value="com.treehouse.testng.parameter.DataProviderTest" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="/Users/sharan_xia/Desktop/Java/Java_Workspace/idea_workspace/AutoAPITest/TestNGTest/src/main/resources/parameter.xml" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="TestNGTest" />
+      <option name="SUITE_NAME" value="$PROJECT_DIR$/TestNGTest/src/main/resources/parameter.xml" />
+      <option name="TEST_OBJECT" value="SUITE" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="TestNG.DataProviderTest" />
+        <item itemvalue="TestNG./Users/sharan_xia/Desktop/Java/Java_Workspace/idea_workspace/AutoAPITest/TestNGTest/src/main/resources/parameter.xml" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="0a383086-26e0-4302-bc85-edc2f57a89ec" name="Default Changelist" comment="" />
+      <created>1553826466015</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1553826466015</updated>
+      <workItem from="1553826468520" duration="4341000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TestHistory">
+    <history-entry file="_Users_sharan_xia_Desktop_Java_Java_Workspace_idea_workspace_AutoAPITest_TestNGTest_src_main_resources_parameter_xml - 2019.03.29 at 12h 29m 05s.xml">
+      <configuration name="/Users/sharan_xia/Desktop/Java/Java_Workspace/idea_workspace/AutoAPITest/TestNGTest/src/main/resources/parameter.xml" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="DataProviderTest - 2019.03.29 at 12h 31m 10s.xml">
+      <configuration name="DataProviderTest" configurationId="TestNG" />
+    </history-entry>
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="4341000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="208" y="23" width="1398" height="877" extended-state="0" />
+    <editor active="true" />
+    <layout>
+      <window_info id="Image Layers" />
+      <window_info id="Designer" />
+      <window_info id="UI Designer" />
+      <window_info id="Capture Tool" />
+      <window_info id="Favorites" side_tool="true" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.25" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info anchor="bottom" id="Messages" weight="0.3299363" />
+      <window_info anchor="bottom" id="Docker" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Database Changes" />
+      <window_info anchor="bottom" id="Version Control" />
+      <window_info anchor="bottom" id="Terminal" />
+      <window_info anchor="bottom" id="Event Log" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.3299363" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="right" id="Palette" />
+      <window_info anchor="right" id="Theme Preview" />
+      <window_info anchor="right" id="Maven" />
+      <window_info anchor="right" id="Capture Analysis" />
+      <window_info anchor="right" id="Palette&#9;" />
+      <window_info anchor="right" id="Database" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="10" selection-start-line="10" selection-end-line="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/TestNGTest/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="396">
+          <caret line="22" column="19" selection-start-line="22" selection-start-column="19" selection-end-line="22" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/TestNGTest/src/main/java/com/treehouse/testng/test.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="126">
+          <caret line="7" lean-forward="true" selection-start-line="7" selection-end-line="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/TestNGTest/src/main/java/com/treehouse/testng/DependTest.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="5" selection-start-line="5" selection-end-line="24" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/TestNGTest/src/main/java/com/treehouse/testng/DependTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="144">
+          <caret line="8" column="25" lean-forward="true" selection-start-line="8" selection-start-column="25" selection-end-line="8" selection-end-column="25" />
+          <folding>
+            <element signature="e#240#241#0" expanded="true" />
+            <element signature="e#287#288#0" expanded="true" />
+            <element signature="e#372#373#0" expanded="true" />
+            <element signature="e#430#431#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/TestNGTest/src/main/java/com/treehouse/testng/BasicAnnotation.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="306">
+          <caret line="21" selection-start-line="21" selection-end-line="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/TestNGTest/src/main/java/com/treehouse/testng/ExpectedExceptionTest.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="126">
+          <caret line="7" selection-start-line="7" selection-end-line="7" selection-end-column="35" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/TestNGTest/src/main/java/com/treehouse/testng/ExpectedExceptionTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="36">
+          <caret line="2" column="35" selection-start-line="2" selection-start-column="35" selection-end-line="2" selection-end-column="35" />
+          <folding>
+            <element signature="e#201#202#0" expanded="true" />
+            <element signature="e#250#251#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/TestNGTest/src/main/java/com/treehouse/testng/IgnoreTest.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="558">
+          <caret line="31" column="1" lean-forward="true" selection-start-line="7" selection-end-line="31" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/TestNGTest/src/main/java/com/treehouse/testng/IgnoreTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="36">
+          <caret line="2" column="35" selection-start-line="2" selection-start-column="35" selection-end-line="2" selection-end-column="35" />
+          <folding>
+            <element signature="e#211#212#0" expanded="true" />
+            <element signature="e#260#261#0" expanded="true" />
+            <element signature="e#334#335#0" expanded="true" />
+            <element signature="e#382#383#0" expanded="true" />
+            <element signature="e#455#456#0" expanded="true" />
+            <element signature="e#503#504#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/TestNGTest/src/main/java/com/treehouse/testng/TimeOutTest.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="126">
+          <caret line="7" selection-start-line="7" selection-end-line="26" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/TestNGTest/src/main/java/com/treehouse/testng/TimeOutTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="432">
+          <caret line="24" column="1" selection-start-line="24" selection-start-column="1" selection-end-line="24" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/TestNGTest/src/main/java/com/treehouse/testng/depends/TestApp.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="126">
+          <caret line="7" selection-start-line="7" selection-end-line="26" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/TestNGTest/src/main/java/com/treehouse/testng/depends/TestApp.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="10" lean-forward="true" selection-start-line="10" selection-end-line="10" />
+          <folding>
+            <element signature="e#267#268#0" expanded="true" />
+            <element signature="e#321#322#0" expanded="true" />
+            <element signature="e#410#411#0" expanded="true" />
+            <element signature="e#464#465#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/TestNGTest/src/main/java/com/treehouse/testng/depends/TestDatabase.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="126">
+          <caret line="7" selection-start-line="7" selection-end-line="28" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/TestNGTest/src/main/java/com/treehouse/testng/depends/TestDatabase.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="468">
+          <caret line="26" column="1" selection-start-line="26" selection-start-column="1" selection-end-line="26" selection-end-column="1" />
+          <folding>
+            <element signature="e#299#300#0" expanded="true" />
+            <element signature="e#351#352#0" expanded="true" />
+            <element signature="e#475#476#0" expanded="true" />
+            <element signature="e#537#538#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/TestNGTest/src/main/java/com/treehouse/testng/depends/TestServer.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="126">
+          <caret line="7" selection-start-line="7" selection-end-line="27" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/TestNGTest/src/main/java/com/treehouse/testng/depends/TestServer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="450">
+          <caret line="25" column="1" selection-start-line="25" selection-start-column="1" selection-end-line="25" selection-end-column="1" />
+          <folding>
+            <element signature="e#261#262#0" expanded="true" />
+            <element signature="e#320#321#0" expanded="true" />
+            <element signature="e#425#426#0" expanded="true" />
+            <element signature="e#488#489#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/TestNGTest/src/main/java/com/treehouse/testng/groups/GroupsOnClass1.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="126">
+          <caret line="7" column="23" lean-forward="true" selection-start-line="7" selection-start-column="23" selection-end-line="7" selection-end-column="23" />
+          <folding>
+            <element signature="e#247#248#0" expanded="true" />
+            <element signature="e#311#312#0" expanded="true" />
+            <element signature="e#337#338#0" expanded="true" />
+            <element signature="e#400#401#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/TestNGTest/src/main/java/com/treehouse/testng/groups/GroupsOnClass1.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="126">
+          <caret line="7" selection-start-line="7" selection-end-line="23" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/TestNGTest/src/main/java/com/treehouse/testng/groups/GroupsOnClass2.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="126">
+          <caret line="7" selection-start-line="7" selection-end-line="23" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/TestNGTest/src/main/java/com/treehouse/testng/groups/GroupsOnClass2.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="126">
+          <caret line="7" column="6" selection-start-line="7" selection-start-column="6" selection-end-line="7" selection-end-column="6" />
+          <folding>
+            <element signature="e#247#248#0" expanded="true" />
+            <element signature="e#311#312#0" expanded="true" />
+            <element signature="e#337#338#0" expanded="true" />
+            <element signature="e#402#403#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/TestNGTest/src/main/java/com/treehouse/testng/groups/GroupsOnClass3.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="126">
+          <caret line="7" selection-start-line="7" selection-end-line="23" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/TestNGTest/src/main/java/com/treehouse/testng/groups/GroupsOnMethod.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1260">
+          <caret line="70" lean-forward="true" selection-start-line="7" selection-end-line="70" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/TestNGTest/src/main/java/com/treehouse/testng/groups/GroupsOnMethod.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="414">
+          <caret line="23" column="29" selection-start-line="23" selection-start-column="29" selection-end-line="23" selection-end-column="29" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#350#351#0" expanded="true" />
+            <element signature="e#403#404#0" expanded="true" />
+            <element signature="e#479#480#0" expanded="true" />
+            <element signature="e#532#533#0" expanded="true" />
+            <element signature="e#608#609#0" expanded="true" />
+            <element signature="e#661#662#0" expanded="true" />
+            <element signature="e#737#738#0" expanded="true" />
+            <element signature="e#790#791#0" expanded="true" />
+            <element signature="e#885#886#0" expanded="true" />
+            <element signature="e#942#943#0" expanded="true" />
+            <element signature="e#1014#1015#0" expanded="true" />
+            <element signature="e#1067#1068#0" expanded="true" />
+            <element signature="e#1137#1138#0" expanded="true" />
+            <element signature="e#1194#1195#0" expanded="true" />
+            <element signature="e#1266#1267#0" expanded="true" />
+            <element signature="e#1319#1320#0" expanded="true" />
+            <element signature="e#1389#1390#0" expanded="true" />
+            <element signature="e#1447#1448#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/TestNGTest/src/main/java/com/treehouse/testng/parameter/DataProviderTest.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="126">
+          <caret line="7" selection-start-line="7" selection-end-line="28" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/TestNGTest/src/main/java/com/treehouse/testng/parameter/ParameterTest.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="126">
+          <caret line="7" selection-start-line="7" selection-end-line="19" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/TestNGTest/src/main/java/com/treehouse/testng/suite/LoginTest.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="126">
+          <caret line="7" selection-start-line="7" selection-end-line="17" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/TestNGTest/src/main/java/com/treehouse/testng/suite/PayTest.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="126">
+          <caret line="7" selection-start-line="7" selection-end-line="17" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/TestNGTest/src/main/java/com/treehouse/testng/groups/GroupsOnClass3.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="36">
+          <caret line="2" column="3" lean-forward="true" selection-start-line="2" selection-start-column="3" selection-end-line="2" selection-end-column="3" />
+          <folding>
+            <element signature="e#255#256#0" expanded="true" />
+            <element signature="e#319#320#0" expanded="true" />
+            <element signature="e#349#350#0" expanded="true" />
+            <element signature="e#413#414#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/TestNGTest/src/main/java/com/treehouse/testng/suite/SuiteConfig.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="118">
+          <caret line="7" lean-forward="true" selection-start-line="7" selection-end-line="35" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/TestNGTest/src/main/java/com/treehouse/testng/suite/SuiteConfig.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="10" column="26" selection-start-line="10" selection-start-column="26" selection-end-line="10" selection-end-column="26" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#362#363#0" expanded="true" />
+            <element signature="e#416#417#0" expanded="true" />
+            <element signature="e#464#465#0" expanded="true" />
+            <element signature="e#515#516#0" expanded="true" />
+            <element signature="e#563#564#0" expanded="true" />
+            <element signature="e#614#615#0" expanded="true" />
+            <element signature="e#660#661#0" expanded="true" />
+            <element signature="e#710#711#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/TestNGTest/src/main/java/com/treehouse/testng/suite/PayTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="126">
+          <caret line="7" column="22" selection-start-line="7" selection-start-column="22" selection-end-line="7" selection-end-column="22" />
+          <folding>
+            <element signature="e#214#215#0" expanded="true" />
+            <element signature="e#260#261#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/TestNGTest/src/main/java/com/treehouse/testng/suite/LoginTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="126">
+          <caret line="7" column="24" selection-start-line="7" selection-start-column="24" selection-end-line="7" selection-end-column="24" />
+          <folding>
+            <element signature="e#219#220#0" expanded="true" />
+            <element signature="e#264#265#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/TestNGTest/src/main/resources/parameter.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="10" column="11" selection-start-line="10" selection-start-column="11" selection-end-line="10" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/TestNGTest/src/main/java/com/treehouse/testng/parameter/ParameterTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="10" column="9" selection-start-line="10" selection-start-column="9" selection-end-line="10" selection-end-column="9" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#325#326#0" expanded="true" />
+            <element signature="e#398#399#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/TestNGTest/src/main/java/com/treehouse/testng/parameter/DataProviderTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="428">
+          <caret line="36" column="16" selection-start-line="36" selection-start-column="16" selection-end-line="36" selection-end-column="16" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#347#348#0" expanded="true" />
+            <element signature="e#420#421#0" expanded="true" />
+            <element signature="e#664#665#0" expanded="true" />
+            <element signature="e#700#701#0" expanded="true" />
+            <element signature="e#742#743#0" expanded="true" />
+            <element signature="e#780#781#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>

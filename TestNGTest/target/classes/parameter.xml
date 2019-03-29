@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<suite name="parameter">
+    <test name="paracase">
+        <classes>
+
+            <parameter name="name" value="sharan" />
+            <parameter name="age" value="30" />
+
+            <class name="com.treehouse.testng.parameter.ParameterTest"/>
+        </classes>
+    </test>
+</suite>

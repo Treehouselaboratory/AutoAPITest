@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/AutoAPITest.iml" filepath="$PROJECT_DIR$/.idea/AutoAPITest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/TestNGTest/TestNGTest.iml" filepath="$PROJECT_DIR$/TestNGTest/TestNGTest.iml" />
+    </modules>
+  </component>
+</project>

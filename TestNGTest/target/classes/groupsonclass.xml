@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<suite name="suiteName">
+    <test name="runAll">
+        <classes>
+            <class name="com.treehouse.testng.groups.GroupsOnClass1"></class>
+            <class name="com.treehouse.testng.groups.GroupsOnClass2"></class>
+            <class name="com.treehouse.testng.groups.GroupsOnClass3"></class>
+        </classes>
+    </test>
+
+    <test name="onlyStu">
+        <groups>
+            <run>
+                <include name="stu"></include>
+            </run>
+        </groups>
+        <classes>
+            <class name="com.treehouse.testng.groups.GroupsOnClass1" />
+            <class name="com.treehouse.testng.groups.GroupsOnClass2" />
+            <class name="com.treehouse.testng.groups.GroupsOnClass3" />
+        </classes>
+    </test>
+</suite>

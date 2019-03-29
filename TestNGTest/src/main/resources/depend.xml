@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<suite name="testDepend">
+    <test name="testCase1">
+        <classes>
+            <class name="com.treehouse.testng.depends.TestApp"></class>
+            <class name="com.treehouse.testng.depends.TestDatabase" />
+            <class name="com.treehouse.testng.depends.TestServer" />
+        </classes>
+    </test>
+</suite>
